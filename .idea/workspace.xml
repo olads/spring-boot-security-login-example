@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1aed0f61-9f50-4361-8ec2-e833792ff660" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21mb7gbch1GsRs6vOlc7zqD9oS1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Carty" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.migia.simpleLogin.validation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BasicApplication (1)">
+    <configuration name="BasicApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="BaseProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.migia.simpleLogin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.migia.simpleLogin.BasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BaseProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.migia.basic.BasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1aed0f61-9f50-4361-8ec2-e833792ff660" name="Default Changelist" comment="" />
+      <created>1638549043391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638549043391</updated>
+      <workItem from="1638549051509" duration="362000" />
+      <workItem from="1638580211633" duration="430000" />
+      <workItem from="1638618756924" duration="4753000" />
+      <workItem from="1638698175733" duration="2344000" />
+      <workItem from="1638747594119" duration="1331000" />
+      <workItem from="1638870510715" duration="3065000" />
+      <workItem from="1638999602245" duration="583000" />
+      <workItem from="1639152448120" duration="179000" />
+      <workItem from="1639214716443" duration="4146000" />
+      <workItem from="1639650719099" duration="1169000" />
+      <workItem from="1639667803804" duration="3094000" />
+      <workItem from="1639840891559" duration="3340000" />
+      <workItem from="1640088947221" duration="3886000" />
+      <workItem from="1640194076566" duration="1599000" />
+      <workItem from="1640251291777" duration="8616000" />
+      <workItem from="1641740806217" duration="842000" />
+      <workItem from="1643229790186" duration="96000" />
+      <workItem from="1643744204893" duration="984000" />
+      <workItem from="1643964956475" duration="2593000" />
+      <workItem from="1644055894480" duration="4014000" />
+      <workItem from="1644354847307" duration="7330000" />
+      <workItem from="1645531361333" duration="7706000" />
+      <workItem from="1647043470548" duration="37000" />
+      <workItem from="1651304425371" duration="2857000" />
+      <workItem from="1651310612164" duration="148000" />
+      <workItem from="1651839414117" duration="486000" />
+    </task>
+    <task id="LOCAL-00001" summary="working form based authentication">
+      <created>1638873104088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638873104088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working form based authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="working form based authentication" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1645588744678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1645588744678" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1647043519144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1647043519144" />
+    <state width="905" height="176" key="GridCell.Tab.0.bottom" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.0.center" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.0.left" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.0.right" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.1.bottom" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.1.center" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.1.left" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state width="905" height="176" key="GridCell.Tab.1.right" timestamp="1651309855085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="905" height="176" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1651309855085" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1651839482478">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1651839482478" />
+    <state x="342" y="170" key="run.anything.popup" timestamp="1645588558685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="170" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1645588558685" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/migia/simpleLogin/jwt/JwtUserAuthenticationFilter.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/migia/simpleLogin/jwt/JwtUserAuthenticationFilter.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
